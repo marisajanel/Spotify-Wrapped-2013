@@ -1,0 +1,18 @@
+import pandas as  pd
+import json
+
+with open("Streaming_History_Audio_2011-2014_0.json", "r", encoding="utf-8") as f: data = json.load(f)
+
+# Step 2: Convert to a pandas DataFrame
+df = pd.DataFrame(data)
+
+# Step 3: Convert timestamp column to datetime format
+df["ts"] = pd.to_datetime(df["ts"])
+
+# Filter for only 2013
+df_2013 = df[df["ts"].dt.year == 2013]
+
+# Save to CSV
+df_2013.to_csv("spotify_2013_listening.csv", index=False)
+
+print("Done! CSV saved as 'spotify_2013_listening.csv'")
