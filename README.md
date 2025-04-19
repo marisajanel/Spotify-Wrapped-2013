@@ -1,8 +1,8 @@
-#🎧 Spotify Wrapped 2013 — Personal Listening Analysis
+# 🎧 Spotify Wrapped 2013 — Personal Listening Analysis (WiP)
 Welcome to my custom Spotify Wrapped 2013 — a personal data-driven exploration of my music listening habits using JSON data from Spotify and visualized through Tableau. The graphics are created by myself, using Canva.
 
 ## 📊 Overview
-This project analyzes my streaming data from the year 2012, providing insight into my:
+This project analyzes my streaming data from the year 2013, providing insight into my:
 
 -🎵 Top Songs
 -👩‍🎤 Most-Played Artists
