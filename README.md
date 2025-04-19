@@ -31,7 +31,7 @@ This project analyzes my streaming data from the year 2013, providing insight in
 - `Top Songs 2013.png`: Dashboard image with song rankings
 - `Wrapped2013.ipy`: Code for data processing
 - `README.md`: This file
-- 
+
 ## ✨ Inspiration
 Inspired by Spotify Wrapped — but with full control of the story, visuals, and insights behind my music journey.
 
