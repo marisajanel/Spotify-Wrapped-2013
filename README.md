@@ -10,10 +10,10 @@ This project analyzes my streaming data from the year 2013, providing insight in
 - 🎧 Overall listening behavior and trends
 
 ## 🔍 Key Insights
-- Song of the Year: Royals by Lorde with 41 plays
-- Most-Listened Artist: One Direction with 294 plays
-- Favorite One Direction Album: Up all Night
-- Peak Listening Period: February 2013, as listening hours surged.
+- **Song of the Year**: Royals by Lorde with 41 plays
+- **Most-Listened Artist**: One Direction with 294 plays
+- **Favorite One Direction Album**: Up all Night
+- **Peak Listening Period**: February 2013, as listening hours surged.
 
 ## 📸 Visual Highlights
 <img src="Top Songs 2013.png" alt="Top Songs 2012" width="600"/>
