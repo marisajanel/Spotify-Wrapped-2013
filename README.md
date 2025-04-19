@@ -9,13 +9,13 @@ This project analyzes my streaming data from the year 2013, providing insight in
 - ⏱️ Listening Time by Month
 - 🎧 Overall listening behavior and trends
 
-##🔍 Key Insights
+## 🔍 Key Insights
 - Song of the Year: Royals by Lorde with 41 plays
 - Most-Listened Artist: One Direction with 294 plays
 - Favorite One Direction Album: Up all Night
 - Peak Listening Period: February 2013, as listening hours surged.
 
-📸 Visual Highlights
+## 📸 Visual Highlights
 <img src="Top Songs 2013.png" alt="Top Songs 2012" width="600"/>
 
 ## 🛠️ Tools & Technologies
@@ -31,3 +31,11 @@ This project analyzes my streaming data from the year 2013, providing insight in
 - `Top Songs 2013.png`: Dashboard image with song rankings
 - `Wrapped2013.ipy`: Code for data processing
 - `README.md`: This file
+- 
+## ✨ Inspiration
+Inspired by Spotify Wrapped — but with full control of the story, visuals, and insights behind my music journey.
+
+## 🗂️ More Years
+I’ve been building a full timeline of my listening history. 
+- <a href='https://github.com/marisajanel/Spotify-Wrapped-2012'>Wrapped2012</a>
+- More years to come! 
