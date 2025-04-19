@@ -3,12 +3,11 @@ Welcome to my custom Spotify Wrapped 2013 — a personal data-driven exploration
 
 ## 📊 Overview
 This project analyzes my streaming data from the year 2013, providing insight into my:
-
--🎵 Top Songs
--👩‍🎤 Most-Played Artists
--💿 Favorite Albums
--⏱️ Listening Time by Month
--🎧 Overall listening behavior and trends
+- 🎵 Top Songs
+- 👩‍🎤 Most-Played Artists
+- 💿 Favorite Albums
+- ⏱️ Listening Time by Month
+- 🎧 Overall listening behavior and trends
 
 ##🔍 Key Insights
 - Song of the Year: Royals by Lorde with 41 plays
