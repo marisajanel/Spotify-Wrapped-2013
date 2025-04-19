@@ -39,3 +39,5 @@ Inspired by Spotify Wrapped — but with full control of the story, visuals, and
 I’ve been building a full timeline of my listening history. 
 - <a href='https://github.com/marisajanel/Spotify-Wrapped-2012'>Wrapped2012</a>
 - More years to come! 
+
+---
